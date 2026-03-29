@@ -6,9 +6,12 @@
 👉 Download the Final build:
 https://drive.google.com/drive/folders/1ioY5DbmUV4OU8YAFv4EmaM4mRlcSMHyH?usp=sharing
 
-## 📸 Screenshot
 
-<video controls src="Trailer.mp4" title="Title"></video>
+## 🎥 Trailer
+
+[Watch the trailer](./Trailer.mp4)
+
+## 📸 Screenshot
 
 ![MainMenu PC Desktop](s1.png)
 
